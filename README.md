@@ -47,7 +47,7 @@ The **AI Voice Assistant** project allows users to interact using **voice** or *
 ## Setup and Installation ⚙️
 1. Clone the repository:
    ```bash
-   git clone https://github.com/farukh-javed/AI-Voice-Assistant with DeepLake.git
+   git clone https://github.com/farukh-javed/AI-Voice-Assistant-with-DeepLake.git
    cd AI-Voice-Assistant
    ```
 2. Install the required dependencies:
