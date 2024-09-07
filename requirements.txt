@@ -1,0 +1,13 @@
+langchain
+deeplake
+openai
+tiktoken
+elevenlabs
+streamlit
+beautifulsoup4
+audio-recorder-streamlit
+streamlit-chat
+langchain-google-genai
+groq
+python-dotenv
+langchain-community
