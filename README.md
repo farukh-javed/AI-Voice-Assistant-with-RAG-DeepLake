@@ -47,8 +47,8 @@ The **AI Voice Assistant** project allows users to interact using **voice** or *
 ## Setup and Installation ⚙️
 1. Clone the repository:
    ```bash
-   git clone https://github.com/farukh-javed/AI-Voice-Assistant-with-RAG.git
-   cd AI-Voice-Assistant-with-RAG
+   git clone https://github.com/farukh-javed/AI-Voice-Assistant-with-RAG-DeepLake.git
+   cd AI-Voice-Assistant-with-RAG-DeepLake
    ```
 2. Install the required dependencies:
    ```bash
