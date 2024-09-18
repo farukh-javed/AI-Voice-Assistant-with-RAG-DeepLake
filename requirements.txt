@@ -1,6 +1,5 @@
 langchain
 deeplake
-openai
 tiktoken
 elevenlabs
 streamlit
