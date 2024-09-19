@@ -6,7 +6,7 @@ The **AI Voice Assistant** project allows users to interact using **voice** or *
 ## Key Features ✨
 - **Voice & Text Input**: Supports input through speech and text.
 - **Voice & Text Output**: Delivers responses in both formats.
-- **Custom Knowledge Base**: Uses information from user-uploaded sources for Q&A.
+- **Custom Knowledge Base**: Uses information from user-uploaded sources for QnA.
 
 ## How It Works 🛠️
 1. **Input**: Users provide input either by speaking or typing.
