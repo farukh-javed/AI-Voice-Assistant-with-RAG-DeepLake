@@ -89,13 +89,10 @@ def main():
     base_url = 'https://huggingface.co'
     # Set the name of the file to which the scraped content will be saved
     filename='content.txt'
-    # Set the root directory where the content file will be saved
-    # root_dir ='./'
+	
     relative_urls = get_documentation_urls()
-    # Scrape all the content from the relative URLs and save it to the content file
     content = scrape_all_content(base_url, relative_urls,filename)
     # Load the content from the file
-    # docs = load_docs(root_dir,filename)
     docs = load_docs(filename)
     # Split the content into individual documents
     texts = split_docs(docs)
