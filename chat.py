@@ -43,8 +43,6 @@ def transcribe_audio(audio_file_path, GROQ_API_KEY):
             response_format="json",  # Optional
             temperature=0.0  # Optional
             )
-            # with open("audio_transcription.txt", "w+") as f:
-            #     f.write(transcription.t)
             # Print the transcription text
             return transcription.text
     except Exception as e:
