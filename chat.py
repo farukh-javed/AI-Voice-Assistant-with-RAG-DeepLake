@@ -103,7 +103,6 @@ def display_conversation(history):
         voice = client.voices.get_all()
 
         audio = client.generate(text=text, voice=voice.voices[0])
-        # st.audio(audio, format='audio/mp3')
         audio_bytes = b"".join(audio)
 
         # Save bytes to a file and display
