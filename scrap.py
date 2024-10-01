@@ -1,11 +1,11 @@
-import os
-import requests
-from bs4 import BeautifulSoup
 from langchain_google_genai import GoogleGenerativeAIEmbeddings, ChatGoogleGenerativeAI
 from langchain.vectorstores import DeepLake
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.document_loaders import TextLoader
 from dotenv import load_dotenv
+from bs4 import BeautifulSoup
+import os
+import requests
 import re
 
 load_dotenv()
