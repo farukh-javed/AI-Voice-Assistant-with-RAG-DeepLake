@@ -4,8 +4,8 @@ from langchain.text_splitter import CharacterTextSplitter
 from langchain.document_loaders import TextLoader
 from dotenv import load_dotenv
 from bs4 import BeautifulSoup
-import os
 import requests
+import os
 import re
 
 load_dotenv()
