@@ -27,7 +27,6 @@ def load_embeddings_and_database(active_loop_data_set_path):
 # Transcribe audio using OpenAI Whisper API
 def transcribe_audio(audio_file_path, GROQ_API_KEY):
     try:
-      # Initialize the Groq client
         client = Groq()
 
 # Specify the path to the audio file
